@@ -1,0 +1,22 @@
+{
+	"name": "Hut",
+	"width": 2,
+	"height": 2,
+	"animated": false,
+	"texture": 
+	{
+		"name": "hut",
+		"width": 32,
+		"height": 32
+	},
+	"walkable_pattern":
+	[
+		[false,false],
+		[false,false]
+	],
+	"target_pattern":
+	[
+		[false,false],
+		[true,true]
+    ]
+}

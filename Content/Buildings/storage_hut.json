@@ -1,0 +1,23 @@
+{
+	"name": "Storage hut",
+	"texture": "storage_hut",
+	"width": 3,
+	"height": 2,
+	"animated": false,
+	"texture": 
+	{
+		"name": "storage_hut",
+		"width": 48,
+		"height": 32
+	},
+	"walkable_pattern":
+	[
+		[false,false,false],
+		[false,false,false]
+	],
+	"target_pattern":
+	[
+		[false,false,false],
+		[false,true,false]
+    ]
+}

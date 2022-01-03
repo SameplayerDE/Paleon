@@ -1,0 +1,22 @@
+{
+	"name": "Kiln",
+	"width": 2,
+	"height": 2,
+	"animated": true,
+	"texture": 
+	{
+		"name": "kiln",
+		"width": 32,
+		"height": 32
+	},
+	"walkable_pattern":
+	[
+		[false,false],
+		[false,false]
+	],
+	"target_pattern":
+	[
+		[false,false],
+		[true,true]
+    ]
+}

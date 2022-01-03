@@ -1,0 +1,20 @@
+{
+	"name": "Cattail",
+	"isWalkable": true,
+	"isWoody": false,
+	"isEvergreen": false,
+	"texture": {
+		"name": "cattail",
+		"width": 16,
+		"height": 18
+	},
+	"fruit": "Apple",
+	"stages":
+	[
+		{"duration":20},
+		{"duration":40},
+		{"duration":50},
+		{"duration":60},
+		{"duration":-1}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"name": "Bonfire",
+	"width": 1,
+	"height": 1,
+	"animated": true,
+	"texture": 
+	{
+		"name": "bonfire",
+		"width": 16,
+		"height": 20
+	},
+	"walkable_pattern":
+	[
+		[false]
+	],
+	"target_pattern":
+	[
+		[true]
+    ]
+}

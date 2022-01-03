@@ -1,0 +1,20 @@
+{
+	"name": "Dryer",
+	"width": 1,
+	"height": 1,
+	"animated": false,
+	"texture": 
+	{
+		"name": "dryer",
+		"width": 16,
+		"height": 16
+	},
+	"walkable_pattern":
+	[
+		[false]
+	],
+	"target_pattern":
+	[
+		[true]
+    ]
+}
